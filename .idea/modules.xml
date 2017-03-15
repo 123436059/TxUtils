@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TxUtils.iml" filepath="$PROJECT_DIR$/TxUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TxUtils.iml" filepath="$PROJECT_DIR$/TxUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/txlibrary/txlibrary.iml" filepath="$PROJECT_DIR$/txlibrary/txlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/txlibrary/txlibrary.iml" filepath="$PROJECT_DIR$/txlibrary/txlibrary.iml" />
     </modules>
   </component>
